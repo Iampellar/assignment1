@@ -1,0 +1,6 @@
+.skip:not(:focus-visible){
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin-left: -100px;
+}
